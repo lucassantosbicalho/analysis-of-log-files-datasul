@@ -1,5 +1,5 @@
 
-### Análise dos arquivos de log gerados pelo ERP em erros de integração em cadastros de cliente
+### Análise dos arquivos de log gerados pela API cdp/cd1608.p (DATASUL) em erros de integração em cadastros de cliente
 ### Uma análise simples para estruturar as mensagens de erro em tabela com código do erro, mensagem e ajuda.
 ### Datasul
 ### Lucas Bicalho 28/02/2023
